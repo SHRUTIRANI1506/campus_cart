@@ -1,8 +1,8 @@
-# Campus-Connect
+# Campus-Cart
 
 
 
-Campus-Connect is a MERN Stack based on e-commerce web application. It is a MERN project where used products can be sold & bought from the comfort of home through the website.
+Campus-Cart is a MERN Stack based on e-commerce web application. It is a MERN project where used products can be sold & bought from the comfort of home through the website.
 
 # A complete MERN E-Commerce Website
 
